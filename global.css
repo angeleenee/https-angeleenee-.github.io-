@@ -1,0 +1,37 @@
+﻿.fancytitle {
+    font-family: 'Luxurious Roman', cursive;
+    text-align: center;
+    color: #4d0066;
+    font-size: 30px
+}
+
+.text {
+    font-family: 'Dongle', sans-serif;
+    text-align: left;
+    font-size: 25px;
+    border: 10px solid black;
+    padding: 20px;
+}
+
+
+.images {
+    position: relative;
+    left: 20px;
+    top: 20px;
+}
+
+.nav {
+    font-family: 'Dongle', sans-serif;
+    font-size: 28px;
+}
+
+nav ul {
+    display: inline;
+}
+
+nav li {
+    display: inline;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 0 35px;
+}
